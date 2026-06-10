@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Head
+  - Wall
+  - Ground
+  - EnemyArrow
+  - PlayerSpawn
+  - EnemySpawn
+  - Projectiles
+  - Joystick
+  - ArrowCount
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Buttons
+  - Water
+  - UI
+  - Player
+  - Projectiles
+  - Surface
+  - EnemyArrow
+  - Enemy
+  - Background
+  - InviWall
+  - Arm
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BackGround
+    uniqueID: 4285263371
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: ForeGround
+    uniqueID: 1088040421
+    locked: 0
+  - name: UI
+    uniqueID: 2974331383
+    locked: 0
+  - name: Buttons
+    uniqueID: 1238313397
+    locked: 0

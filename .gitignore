@@ -1,0 +1,37 @@
+﻿# Unity generated / local (the stuff that breaks uploads)
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+.vs/
+.idea/
+
+# Keep asset .meta files (Unity needs them)
+!/[Aa]ssets/**/*.meta
+
+# Auto-generated solution/project files
+*.csproj
+*.sln
+*.user
+*.userprefs
+*.unityproj
+*.pidb
+*.booproj
+*.suo
+*.tmp
+
+# Builds / packages / crash logs
+*.apk
+*.aab
+*.app
+*.unitypackage
+sysinfo.txt
+crashlytics-build.properties
+
+# OS
+.DS_Store
+Thumbs.db
