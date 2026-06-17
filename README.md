@@ -9,7 +9,6 @@ A 2D mobile archery game built in Unity. You aim a bow by touch, draw it back, a
 
 ## Demo
 
-> _Add a gameplay GIF or a few screenshots here (e.g. `docs/gameplay.gif`) — for a game, a short clip sells it better than any description._
 
 ## The game
 
