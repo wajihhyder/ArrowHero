@@ -42,4 +42,4 @@ Assets/Sprites/, Sounds/, Animation/, Prefabs/   game assets
 
 ## License & credits
 
-The gameplay code in `Assets/Scripts/` is my own work, released under the **MIT License** (see [`LICENSE`](LICENSE)). The bundled third-party packs — the **Joystick Pack**, **Dynamic Floating Text** (damage numbers), **TextMesh Pro**, and the 2D art packs (**Miniature Army 2D**, **Puzzle stage & settings GUI Pack**) — are used under and retain their own original licenses.
+The original code in Assets/Scripts/ (and the project configuration I authored) is proprietary — all rights reserved (see LICENSE). It's published here for portfolio and evaluation purposes only; it may not be used, copied, modified, or redistributed without my written permission. The bundled third-party packs — the Joystick Pack, Dynamic Floating Text (damage numbers), TextMesh Pro, and the 2D art packs (Miniature Army 2D, Puzzle stage & settings GUI Pack) — are not mine and remain under their own original licenses.
