@@ -1,0 +1,28 @@
+Arrow Hero — Proprietary Software License
+Copyright (c) 2025 Muhammad Wajih Hyder. All rights reserved.
+
+This repository contains the original source code authored by the copyright
+holder (the contents of `Assets/Scripts/` and the project configuration), referred
+to here as the "Software".
+
+ALL RIGHTS RESERVED. No permission is granted to any person or entity to use,
+copy, modify, merge, publish, distribute, sublicense, sell, reproduce, or create
+derivative works from the Software, in whole or in part, by any means, without the
+prior written permission of the copyright holder.
+
+The Software is published on a public repository for portfolio review and
+evaluation purposes only. Being able to view the source code does NOT grant any
+license or right to use it.
+
+THIRD-PARTY COMPONENTS
+This project also bundles third-party packages and art assets, including (but not
+limited to) the Joystick Pack, Dynamic Floating Text, TextMesh Pro, Miniature Army
+2D, and the Puzzle stage & settings GUI Pack. These components are NOT owned by the
+copyright holder, are NOT covered by this license, and remain subject to their
+respective original licenses. All rights in them belong to their respective owners.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+For licensing or permission requests, contact: wajihhyder22@gmail.com
